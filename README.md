@@ -36,6 +36,40 @@ I'm an aspiring technology professional passionate about building responsive web
 
 ---
 
+## 📂 Explore My Repositories
+
+<p align="center">
+  <a href="https://github.com/Bhagyashreekatale1/Frontend-projects">
+    <img src="https://img.shields.io/badge/Frontend_Development-Explore_Projects-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Development Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  Responsive websites and user-friendly interfaces built with HTML, CSS, JavaScript, Bootstrap, and React.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bhagyashreekatale1/Backend-Project">
+    <img src="https://img.shields.io/badge/Backend_Development-Explore_Projects-2E7D32?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Development Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  Server-side applications, backend logic, APIs, and database integration.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bhagyashreekatale1/Data-Analyst">
+    <img src="https://img.shields.io/badge/Data_Analyst-Explore_Projects-B57BFF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analyst Projects"/>
+  </a>
+</p>
+
+<p align="center">
+  Data analysis, SQL queries, Python EDA, business insights, and interactive dashboards.
+</p>
+
+---
+
 ## 🛠️ Technical Skills
 
 ### 🌐 Frontend Development
@@ -85,40 +119,6 @@ I'm an aspiring technology professional passionate about building responsive web
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git, GitHub, VS Code, Jupyter"/>
-</p>
-
----
-
-## 📂 Explore My Repositories
-
-<p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Frontend-projects">
-    <img src="https://img.shields.io/badge/Frontend_Development-Explore_Projects-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Development Projects"/>
-  </a>
-</p>
-
-<p align="center">
-  Responsive websites and user-friendly interfaces built with HTML, CSS, JavaScript, Bootstrap, and React.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Backend-Project">
-    <img src="https://img.shields.io/badge/Backend_Development-Explore_Projects-2E7D32?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Development Projects"/>
-  </a>
-</p>
-
-<p align="center">
-  Server-side applications, backend logic, APIs, and database integration.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Data-Analyst">
-    <img src="https://img.shields.io/badge/Data_Analyst-Explore_Projects-B57BFF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analyst Projects"/>
-  </a>
-</p>
-
-<p align="center">
-  Data analysis, SQL queries, Python EDA, business insights, and interactive dashboards.
 </p>
 
 ---
