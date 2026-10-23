@@ -10,9 +10,11 @@
   <a href="https://github.com/Bhagyashreekatale1">
     <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
+
   <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
+
   <a href="mailto:bhagyashreekatale5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
