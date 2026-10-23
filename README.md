@@ -25,15 +25,14 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring technology professional passionate about building responsive web applications, developing backend solutions, and transforming raw data into meaningful business insights. I enjoy solving problems, learning new technologies, and creating practical projects that demonstrate my skills.
+Aspiring Software Developer and Data Analyst passionate about building practical applications and transforming data into actionable business insights. Interested in problem-solving, continuous learning, and developing technology solutions through hands-on projects.
 
-- 🔭 Building real-world software development and data analytics projects.
-- 🌱 Improving my skills in React.js, the MERN Stack, Python, SQL, and Power BI.
-- 💻 Interested in frontend development, backend development, and business intelligence.
-- 📊 Enjoy analyzing data, identifying trends, and creating interactive dashboards.
-- 🤝 Open to collaboration, internships, and entry-level opportunities.
-- 🎯 Focused on continuous learning and building industry-relevant projects.
-
+- 💻 Interested in frontend development, backend development, and data analytics.
+- 🛠️ Working with C#, Java, C++, Python, SQL, and React.js.
+- 📊 Skilled in Power BI, Excel, data analysis, and visualization.
+- 🚀 Building hands-on projects to strengthen technical and analytical skills.
+- 🤝 Open to internships, entry-level opportunities, and collaborative projects.
+  
 ---
 
 ## 📂 Explore My Repositories
