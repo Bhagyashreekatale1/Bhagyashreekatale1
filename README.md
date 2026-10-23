@@ -10,11 +10,11 @@
   <a href="https://github.com/Bhagyashreekatale1">
     <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bhagyashreekatale5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@ I'm an aspiring technology professional passionate about building responsive web
 
 - 🔭 Working on real-world software development and data analytics projects.
 - 🌱 Learning and improving my skills in React.js, MERN Stack, Python, SQL, and Power BI.
-- 💻 Interested in Frontend Development, Backend Development, and Business Intelligence.
+- 💻 Interested in Frontend Development, Backend Development, and Data Analytics.
 - 📊 Passionate about data visualization, dashboards, and data-driven decision-making.
 - 🤝 Open to collaboration, internships, and entry-level opportunities.
 - 🎯 Focused on continuous learning and developing industry-relevant projects.
@@ -53,7 +53,7 @@ I'm an aspiring technology professional passionate about building responsive web
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="MySQL MongoDB PostgreSQL SQLite"/>
 </p>
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analyst Skills
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
@@ -75,8 +75,8 @@ I'm an aspiring technology professional passionate about building responsive web
 ## 📂 Explore My Repositories
 
 <p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Frontend-Development">
-    <img src="https://img.shields.io/badge/🌐_Frontend_Development-Explore_Projects-1572B6?style=for-the-badge" alt="Frontend Development Repository"/>
+  <a href="https://github.com/Bhagyashreekatale1/Frontend-projects">
+    <img src="https://img.shields.io/badge/🌐_Frontend_Development-Explore_Projects-1572B6?style=for-the-badge" alt="Frontend Projects"/>
   </a>
 </p>
 
@@ -85,23 +85,23 @@ I'm an aspiring technology professional passionate about building responsive web
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Backend-Development">
-    <img src="https://img.shields.io/badge/⚙️_Backend_Development-Explore_Projects-2E7D32?style=for-the-badge" alt="Backend Development Repository"/>
+  <a href="https://github.com/Bhagyashreekatale1/Backend-Project">
+    <img src="https://img.shields.io/badge/⚙️_Backend_Development-Explore_Projects-2E7D32?style=for-the-badge" alt="Backend Projects"/>
   </a>
 </p>
 
 <p align="center">
-  Explore backend applications, server-side development, APIs, and database integration using Java, Node.js, Express, and SQL.
+  Explore backend applications, server-side development, APIs, and database integration.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Bhagyashreekatale1/Data-Analytics">
-    <img src="https://img.shields.io/badge/📊_Data_Analytics-Explore_Projects-F2C811?style=for-the-badge" alt="Data Analytics Repository"/>
+  <a href="https://github.com/Bhagyashreekatale1/Data-Analyst">
+    <img src="https://img.shields.io/badge/📊_Data_Analyst-Explore_Projects-F2C811?style=for-the-badge" alt="Data Analyst Projects"/>
   </a>
 </p>
 
 <p align="center">
-  Explore data analysis, business insights, SQL projects, Python EDA, and interactive Power BI dashboards.
+  Explore Python data analysis, SQL projects, business insights, and interactive Power BI dashboards.
 </p>
 
 ---
@@ -116,7 +116,7 @@ I'm an aspiring technology professional passionate about building responsive web
 | 📈 Retail Transactions EDA | Analyze customer behavior and product performance | Python, Pandas |
 | 🌐 Web Development Projects | Build responsive and user-friendly web interfaces | HTML, CSS, JavaScript, React |
 
-*Replace these example projects with links to your actual project repositories when available.*
+*Explore my repositories for project code, dashboards, and implementation details.*
 
 ---
 
@@ -139,11 +139,11 @@ I'm an aspiring technology professional passionate about building responsive web
   <a href="https://github.com/Bhagyashreekatale1">
     <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:bhagyashreekatale5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -152,5 +152,5 @@ I'm an aspiring technology professional passionate about building responsive web
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
   <br/>
-  Feel free to explore my repositories and connect with me.
+  Feel free to explore my projects and connect with me.
 </p>
