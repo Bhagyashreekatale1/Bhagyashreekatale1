@@ -47,7 +47,7 @@ I'm an aspiring technology professional passionate about building responsive web
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Java, Python, Node.js, Express"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,python,java,express,nodejs" alt="C, C++, .NET, Python, Core Java, Express.js, Node.js"/>
 </p>
 
 ### 🗄️ Databases
