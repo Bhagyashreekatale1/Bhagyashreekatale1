@@ -50,7 +50,13 @@ I'm an aspiring technology professional passionate about building responsive web
   <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,python,java,express,nodejs" alt="C, C++, .NET, Python, Core Java, Express.js, Node.js"/>
 </p>
 
-**Frameworks:** ASP.NET MVC, .NET, Express.js
+**Frameworks:**
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000" alt="Express.js"/>
+</p>
 
 ### 🗄️ Databases
 
