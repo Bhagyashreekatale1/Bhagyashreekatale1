@@ -1,6 +1,8 @@
-# Hi there, I'm Bhagyashree Katale 👋
+<h1 align="center">Hi there, I'm Bhagyashree Katale 👋</h1>
 
-<h3 align="center">Aspiring Software Developer | Full Stack Developer | Data Analyst</h3>
+<h3 align="center">
+  Aspiring Software Developer | Full Stack Developer | Data Analyst
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analyst+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
