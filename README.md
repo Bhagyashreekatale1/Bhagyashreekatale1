@@ -50,6 +50,8 @@ I'm an aspiring technology professional passionate about building responsive web
   <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,python,java,express,nodejs" alt="C, C++, .NET, Python, Core Java, Express.js, Node.js"/>
 </p>
 
+**Frameworks:** ASP.NET MVC, .NET, Express.js
+
 ### 🗄️ Databases
 
 <p>
