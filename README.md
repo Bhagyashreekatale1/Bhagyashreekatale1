@@ -1,6 +1,6 @@
 # Hi there, I'm Bhagyashree Katale 👋
 
-                            ### Aspiring Software Developer | Full Stack Developer | Data Analyst
+<h3 align="center">Aspiring Software Developer | Full Stack Developer | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analyst+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
@@ -87,7 +87,7 @@ I'm an aspiring technology professional passionate about building responsive web
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1/Backend-Project">
-    <img src="https://img.shields.io/badge/Backend_Development-Explore_Projects-2E7D32?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development Projects"/>
+    <img src="https://img.shields.io/badge/Backend_Development-Explore_Projects-2E7D32?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Backend Development Projects"/>
   </a>
 </p>
 
@@ -117,7 +117,7 @@ I'm an aspiring technology professional passionate about building responsive web
 | 📈 Retail Transactions Analysis | Explore customer behavior and product performance | Python, Pandas |
 | 🌐 Frontend Development Projects | Create responsive and user-friendly web interfaces | HTML, CSS, JavaScript, React |
 
-*Replace these examples with your actual projects and direct project links as appropriate.*
+*Replace these example projects with your actual projects and direct repository links.*
 
 ---
 
