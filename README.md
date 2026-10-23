@@ -1,17 +1,17 @@
 # Hi there, I'm Bhagyashree Katale 👋
 
-### 💻 Aspiring Software Developer | 🌐 Full Stack Developer | 📊 Data Analyst
+### Aspiring Software Developer | Full Stack Developer | Data Analyst
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analyst+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analytics+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
   </a>
   <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   <a href="mailto:bhagyashreekatale5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -22,14 +22,14 @@
 
 ## 👩‍💻 About Me
 
-I'm an aspiring technology professional passionate about building responsive web applications, developing backend solutions, and transforming raw data into meaningful business insights.
+I'm an aspiring technology professional passionate about building responsive web applications, developing backend solutions, and transforming raw data into meaningful business insights. I enjoy solving problems, learning new technologies, and creating practical projects that demonstrate my skills.
 
-- 🔭 Working on real-world software development and data analytics projects.
-- 🌱 Learning and improving my skills in React.js, MERN Stack, Python, SQL, and Power BI.
-- 💻 Interested in Frontend Development, Backend Development, and Data Analytics.
-- 📊 Passionate about data visualization, dashboards, and data-driven decision-making.
+- 🔭 Building real-world software development and data analytics projects.
+- 🌱 Improving my skills in React.js, the MERN Stack, Python, SQL, and Power BI.
+- 💻 Interested in frontend development, backend development, and business intelligence.
+- 📊 Enjoy analyzing data, identifying trends, and creating interactive dashboards.
 - 🤝 Open to collaboration, internships, and entry-level opportunities.
-- 🎯 Focused on continuous learning and developing industry-relevant projects.
+- 🎯 Focused on continuous learning and building industry-relevant projects.
 
 ---
 
@@ -38,36 +38,37 @@ I'm an aspiring technology professional passionate about building responsive web
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="HTML CSS JavaScript Bootstrap React"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" alt="HTML, CSS, JavaScript, Bootstrap, React"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Java Python Node.js Express"/>
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Java, Python, Node.js, Express"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="MySQL MongoDB PostgreSQL SQLite"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="MySQL, MongoDB, PostgreSQL, SQLite"/>
 </p>
 
 ### 📊 Data Analyst Skills
 
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git GitHub VS Code Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" alt="Git, GitHub, VS Code, Jupyter"/>
 </p>
 
 ---
@@ -76,32 +77,32 @@ I'm an aspiring technology professional passionate about building responsive web
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1/Frontend-projects">
-    <img src="https://img.shields.io/badge/🌐_Frontend_Development-Explore_Projects-1572B6?style=for-the-badge" alt="Frontend Projects"/>
+    <img src="https://img.shields.io/badge/Frontend_Development-Explore_Projects-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Development Projects"/>
   </a>
 </p>
 
 <p align="center">
-  Explore responsive websites and user-friendly interfaces built with HTML, CSS, JavaScript, Bootstrap, and React.
+  Responsive websites and user-friendly interfaces built with HTML, CSS, JavaScript, Bootstrap, and React.
 </p>
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1/Backend-Project">
-    <img src="https://img.shields.io/badge/⚙️_Backend_Development-Explore_Projects-2E7D32?style=for-the-badge" alt="Backend Projects"/>
+    <img src="https://img.shields.io/badge/Backend_Development-Explore_Projects-2E7D32?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development Projects"/>
   </a>
 </p>
 
 <p align="center">
-  Explore backend applications, server-side development, APIs, and database integration.
+  Server-side applications, backend logic, APIs, and database integration.
 </p>
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1/Data-Analyst">
-    <img src="https://img.shields.io/badge/📊_Data_Analyst-Explore_Projects-F2C811?style=for-the-badge" alt="Data Analyst Projects"/>
+    <img src="https://img.shields.io/badge/Data_Analyst-Explore_Projects-B57BFF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Data Analyst Projects"/>
   </a>
 </p>
 
 <p align="center">
-  Explore Python data analysis, SQL projects, business insights, and interactive Power BI dashboards.
+  Data analysis, SQL queries, Python EDA, business insights, and interactive dashboards.
 </p>
 
 ---
@@ -110,25 +111,24 @@ I'm an aspiring technology professional passionate about building responsive web
 
 | Project | Description | Technologies |
 |---|---|---|
-| 📊 Olist E-Commerce Dashboard | Analyze sales, customers, orders, and business performance | SQL, Power BI |
-| 🚗 Uber Rides Data Analysis | Explore ride trends and operational performance | Python, SQL |
+| 📊 Olist E-Commerce Dashboard | Analyze sales, orders, customers, and business performance | SQL, Power BI |
+| 🚗 Uber Rides Data Analysis | Identify ride trends and operational insights | Python, SQL |
 | 💰 Financial Performance Analysis | Evaluate revenue, expenses, and profitability | Excel, SQL, Power BI |
-| 📈 Retail Transactions EDA | Analyze customer behavior and product performance | Python, Pandas |
-| 🌐 Web Development Projects | Build responsive and user-friendly web interfaces | HTML, CSS, JavaScript, React |
+| 📈 Retail Transactions Analysis | Explore customer behavior and product performance | Python, Pandas |
+| 🌐 Frontend Development Projects | Create responsive and user-friendly web interfaces | HTML, CSS, JavaScript, React |
 
-*Explore my repositories for project code, dashboards, and implementation details.*
+*Replace these examples with your actual projects and direct project links as appropriate.*
 
 ---
 
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyashreekatale1&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyashreekatale1&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most Used Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyashreekatale1&show_icons=true&theme=tokyonight&hide_border=true&title_color=B57BFF&icon_color=B57BFF" height="165" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bhagyashreekatale1&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Bhagyashreekatale1&theme=tokyonight&hide_border=true&ring=B57BFF&fire=FF80AB&currStreakLabel=B57BFF" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -143,14 +143,14 @@ I'm an aspiring technology professional passionate about building responsive web
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:bhagyashreekatale5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+  <b>✨ Thanks for visiting my profile! ✨</b>
   <br/>
-  Feel free to explore my projects and connect with me.
+  Explore my repositories, check out my projects, and connect with me.
 </p>
