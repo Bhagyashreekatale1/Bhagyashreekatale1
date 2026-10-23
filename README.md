@@ -34,7 +34,6 @@ Aspiring Software Developer and Data Analyst passionate about building practical
 - 🤝 Open to internships, entry-level opportunities, and collaborative projects.
   
 ---
-
 ## 📂 Explore My Repositories
 
 <p align="center">
