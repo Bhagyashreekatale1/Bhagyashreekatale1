@@ -5,6 +5,13 @@
 </h3>
 
 <p align="center">
+  💻 Building real-world projects with modern technologies.<br>
+  📊 Transforming data into meaningful business insights.<br>
+  🚀 Passionate about problem-solving, learning, and innovation.<br>
+  🤝 Open to collaboration and entry-level opportunities.
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analyst+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
