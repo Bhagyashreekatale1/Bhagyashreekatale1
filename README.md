@@ -5,25 +5,18 @@
 </h3>
 
 <p align="center">
-  💻 Building real-world projects with modern technologies.<br>
-  📊 Transforming data into meaningful business insights.<br>
-  🚀 Passionate about problem-solving, learning, and innovation.<br>
-  🤝 Open to collaboration and entry-level opportunities.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=B57BFF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analyst+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Frontend+%26+Backend+Development;Data+Analytics+%26+Business+Intelligence;Building+Real-World+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Bhagyashreekatale1">
-    <img src="https://img.shields.io/badge/GitHub-My_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-My_Profile-242938?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/bhagyashree-katale-6b6256357">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn">
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhagyashreekatale5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bhagyashreekatale5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-FF4B6E?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Gmail">
   </a>
 </p>
 
