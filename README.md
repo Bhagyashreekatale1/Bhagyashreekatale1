@@ -121,15 +121,75 @@ Aspiring Software Developer and Data Analyst passionate about building practical
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 📊 Olist E-Commerce Dashboard | Analyze sales, orders, customers, and business performance | SQL, Power BI |
-| 🚗 Uber Rides Data Analysis | Identify ride trends and operational insights | Python, SQL |
-| 💰 Financial Performance Analysis | Evaluate revenue, expenses, and profitability | Excel, SQL, Power BI |
-| 📈 Retail Transactions Analysis | Explore customer behavior and product performance | Python, Pandas |
-| 🌐 Frontend Development Projects | Create responsive and user-friendly web interfaces | HTML, CSS, JavaScript, React |
+### 1. 📊 Olist E-Commerce Sales & Business Analytics
 
-*Replace these example projects with your actual projects and direct repository links.*
+**Technologies:** PostgreSQL | SQL | Power BI | DAX | Power Query
+
+- Analyzed Brazilian e-commerce data to understand sales performance, customer behavior, order trends, seller performance, and product categories.
+- Performed SQL-based data validation and exploratory analysis.
+- Developed interactive Power BI dashboards covering customers, orders, sellers, categories, and overall business performance.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Olist%20E-Commerce%20Sales%20%26%20Business%20Analytics)
+
+### 2. 🚚 Supply Chain Risk & Operational Analytics
+
+**Technologies:** MySQL | Python | Pandas | NumPy | Power BI | DAX
+
+- Analyzed supply chain operations to identify delivery delays, regional risks, and product profitability issues.
+- Evaluated shipping performance, operational risk, and revenue exposure.
+- Created interactive dashboards to support risk monitoring and operational decision-making.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Supply%20Chain%20Risk%20%26%20Operational%20Analytics)
+
+### 3. 💰 Financial Performance & Profitability Analytics
+
+**Technologies:** MySQL | SQL | Power BI | Excel | DAX
+
+- Analyzed financial performance, revenue trends, profit contribution, and product profitability.
+- Performed data validation and duplicate handling.
+- Built dashboards to evaluate product performance and discount impact.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Financial%20Performance%20%26%20Profitability%20Analytics)
+
+### 4. 📦 Vendor Performance Analysis
+
+**Technologies:** Python | Pandas | NumPy | SQL | Power BI
+
+- Analyzed vendor sales, procurement trends, and brand profitability.
+- Examined purchasing patterns and inventory-related performance.
+- Developed analytical reports to support vendor evaluation and business decisions.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Vendor-Performance-Analysis)
+
+### 5. 🚗 Uber Rides Analysis
+
+**Technologies:** Power BI | Power Query | DAX | Excel
+
+- Analyzed ride bookings, revenue, demand patterns, and vehicle performance.
+- Evaluated cancellation trends and ride-booking behavior.
+- Created interactive dashboards to understand operational performance.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Uber-Rides-Analysis)
+
+### 6. 🛒 Flipkart Sales Analytics
+
+**Technologies:** Power BI | Power Query | DAX | Excel
+
+- Analyzed sales performance, profit trends, product categories, and regional performance.
+- Explored customer segments and order fulfillment.
+- Developed interactive dashboards with KPIs and dynamic filters.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Flipkart-Sales-Analytics)
+
+### 7. 👥 Customer Segmentation & RFM Analysis Dashboard
+
+**Technologies:** Power BI | Power Query | DAX | Excel
+
+- Performed RFM (Recency, Frequency, Monetary) analysis to understand customer purchasing behavior.
+- Segmented customers based on transaction history and purchasing patterns.
+- Identified valuable, loyal, at-risk, and lost customer segments to support customer retention strategies.
+
+🔗 [View Project on GitHub](https://github.com/Bhagyashreekatale1/Data-Analyst/tree/main/Customer-Segmentation-RFM-Dashboard)
 
 ---
 
