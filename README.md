@@ -196,7 +196,11 @@ Aspiring Software Developer and Data Analyst passionate about building practical
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhagyashreekatale1&show_icons=true&theme=tokyonight&hide_border=true&title_color=B57BFF&icon_color=B57BFF" height="165" alt="GitHub Statistics"/>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Bhagyashreekatale1&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
 </p>
 
 <p align="center">
